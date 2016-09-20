@@ -1,18 +1,16 @@
-# Complete Guide to Node Authentication
+# Movie Tracker Webapp
 
-Code for the entire scotch.io tutorial series: Complete Guide to Node Authentication
+Node authentication used from scotch.io Easy Node Authentication Tutorial
 
-We will be using Passport to authenticate users locally, with Facebook, Twitter, and Google.
+This app will allow users to login or signup and search for movies that they would like to keep track off.
+Users will be able to also search movies that other users have chosen to keep track of as well.
 
-## Instructions
-
-If you would like to download the code and try it for yourself:
-
-1. Clone the repo: `git clone git@github.com:scotch-io/node-authentication-guide`
-2. Install packages: `npm install`
-3. Change out the database configuration in config/database.js
-4. Launch: `node server.js`
-5. Visit in your browser at: `http://localhost:8080`
+To currently use this application:
+-download the code
+-run npm install on the repositiory in command line
+-run node server.js on the repositiory in command line
+(the app will be listening for requests on port 8080)
+-open up localhost:8080 on your web browser
 
 
 
